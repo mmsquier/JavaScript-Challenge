@@ -98,7 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url= ("https://i.pinimg.com/originals/c6/1c/c3/c61cc37063af25905048710b258c5233.jpg");
+  background-image: url("https://i.pinimg.com/originals/c6/1c/c3/c61cc37063af25905048710b258c5233.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
